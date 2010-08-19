@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+	<information>
+		<Property name="game_version" value="1.9" />
+		<Property name="engine_version" value="34" />
+		<Property name="save_time" value="1257028620" />
+	</information>
+	<settings>
+		<Property name="lvl_author" value="crabmaster" />
+		<Property name="lvl_version" value="1.9" />
+		<Property name="lvl_music" value="land/land_5.ogg" />
+		<Property name="cam_limit_x" value="0" />
+		<Property name="cam_limit_y" value="0" />
+		<Property name="cam_limit_w" value="800" />
+		<Property name="cam_limit_h" value="-100" />
+		<Property name="cam_fixed_hor_vel" value="0" />
+	</settings>
+	<background>
+		<Property name="type" value="103" />
+		<Property name="bg_color_1_red" value="0" />
+		<Property name="bg_color_1_green" value="125" />
+		<Property name="bg_color_1_blue" value="150" />
+		<Property name="bg_color_2_red" value="0" />
+		<Property name="bg_color_2_green" value="100" />
+		<Property name="bg_color_2_blue" value="150" />
+	</background>
+	<background>
+		<Property name="type" value="1" />
+		<Property name="posx" value="0" />
+		<Property name="posy" value="0" />
+		<Property name="posz" value="0.00011" />
+		<Property name="image" value="game/background/green_junglehills.png" />
+		<Property name="speedx" value="0.5" />
+		<Property name="speedy" value="0.5" />
+		<Property name="const_velx" value="0" />
+		<Property name="const_vely" value="0" />
+	</background>
+	<player>
+		<Property name="posx" value="323" />
+		<Property name="posy" value="476" />
+		<Property name="direction" value="right" />
+	</player>
+	<sprite>
+		<Property name="posx" value="121" />
+		<Property name="posy" value="40" />
+		<Property name="image" value="ground/jungle_1/tree/1_front.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="315" />
+		<Property name="posy" value="48" />
+		<Property name="image" value="ground/jungle_1/tree/1_front.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="541" />
+		<Property name="image" value="ground/green_3/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="60" />
+		<Property name="posy" value="541" />
+		<Property name="image" value="ground/green_3/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="124" />
+		<Property name="posy" value="541" />
+		<Property name="image" value="ground/green_3/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="188" />
+		<Property name="posy" value="541" />
+		<Property name="image" value="ground/green_3/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="252" />
+		<Property name="posy" value="541" />
+		<Property name="image" value="ground/green_3/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="316" />
+		<Property name="posy" value="541" />
+		<Property name="image" value="ground/green_3/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="380" />
+		<Property name="posy" value="541" />
+		<Property name="image" value="ground/green_3/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="444" />
+		<Property name="posy" value="541" />
+		<Property name="image" value="ground/green_3/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="508" />
+		<Property name="posy" value="541" />
+		<Property name="image" value="ground/green_3/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="572" />
+		<Property name="posy" value="541" />
+		<Property name="image" value="ground/green_3/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="636" />
+		<Property name="posy" value="541" />
+		<Property name="image" value="ground/green_3/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="700" />
+		<Property name="posy" value="541" />
+		<Property name="image" value="ground/green_3/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="764" />
+		<Property name="posy" value="541" />
+		<Property name="image" value="ground/green_3/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="-85" />
+		<Property name="posy" value="43" />
+		<Property name="image" value="ground/jungle_1/tree/1_front.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="296" />
+		<Property name="posy" value="59" />
+		<Property name="image" value="ground/jungle_1/tree/1.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="26" />
+		<Property name="posy" value="53" />
+		<Property name="image" value="ground/jungle_1/tree/1_front.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="458" />
+		<Property name="posy" value="42" />
+		<Property name="image" value="ground/jungle_1/tree/1.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="213" />
+		<Property name="posy" value="57" />
+		<Property name="image" value="ground/jungle_1/tree/1.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="105" />
+		<Property name="posy" value="192" />
+		<Property name="image" value="ground/green_2/apple_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="-13" />
+		<Property name="posy" value="209" />
+		<Property name="image" value="ground/green_2/apple_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="232" />
+		<Property name="posy" value="286" />
+		<Property name="image" value="ground/green_2/apple_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="128" />
+		<Property name="posy" value="121" />
+		<Property name="image" value="ground/green_2/apple_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="144" />
+		<Property name="posy" value="57" />
+		<Property name="image" value="ground/green_2/apple_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="189" />
+		<Property name="posy" value="153" />
+		<Property name="image" value="ground/green_2/apple_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="43" />
+		<Property name="posy" value="134" />
+		<Property name="image" value="ground/green_2/apple_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="341" />
+		<Property name="posy" value="314" />
+		<Property name="image" value="ground/jungle_1/berry_1.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="334" />
+		<Property name="posy" value="187" />
+		<Property name="image" value="ground/jungle_1/berry_1.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="581" />
+		<Property name="posy" value="177" />
+		<Property name="image" value="ground/jungle_1/berry_1.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="375" />
+		<Property name="posy" value="115" />
+		<Property name="image" value="ground/jungle_1/berry_1.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="466" />
+		<Property name="posy" value="234" />
+		<Property name="image" value="ground/jungle_1/berry_1.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="460" />
+		<Property name="posy" value="139" />
+		<Property name="image" value="ground/jungle_1/berry_1.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="715" />
+		<Property name="posy" value="90" />
+		<Property name="image" value="ground/jungle_1/berry_1.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="195" />
+		<Property name="image" value="ground/jungle_1/berry_1.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="42" />
+		<Property name="posy" value="130" />
+		<Property name="color" value="red" />
+	</item>
+	<sprite>
+		<Property name="posx" value="725" />
+		<Property name="posy" value="225" />
+		<Property name="image" value="ground/jungle_1/berry_1.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="230" />
+		<Property name="posy" value="71" />
+		<Property name="image" value="ground/green_2/apple_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="169" />
+		<Property name="posy" value="251" />
+		<Property name="image" value="ground/green_2/apple_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<box>
+		<Property name="posx" value="405" />
+		<Property name="posy" value="343" />
+		<Property name="type" value="text" />
+		<Property name="invisible" value="0" />
+		<Property name="useable_count" value="-1" />
+		<Property name="text" value="Sorry but yoshi dosn&apos;t live here anymore.&lt;br/&gt;&lt;br/&gt;But you can get some coins.&lt;br/&gt;" />
+	</box>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="230" />
+		<Property name="posy" value="285" />
+		<Property name="color" value="yellow" />
+	</item>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="170" />
+		<Property name="posy" value="246" />
+		<Property name="color" value="yellow" />
+	</item>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="186" />
+		<Property name="posy" value="155" />
+		<Property name="color" value="yellow" />
+	</item>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="104" />
+		<Property name="posy" value="192" />
+		<Property name="color" value="yellow" />
+	</item>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="126" />
+		<Property name="posy" value="118" />
+		<Property name="color" value="yellow" />
+	</item>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="142" />
+		<Property name="posy" value="53" />
+		<Property name="color" value="yellow" />
+	</item>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="224" />
+		<Property name="posy" value="71" />
+		<Property name="color" value="yellow" />
+	</item>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="523" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="-18" />
+		<Property name="posy" value="205" />
+		<Property name="color" value="yellow" />
+	</item>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="372" />
+		<Property name="posy" value="111" />
+		<Property name="color" value="yellow" />
+	</item>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="331" />
+		<Property name="posy" value="185" />
+		<Property name="color" value="yellow" />
+	</item>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="335" />
+		<Property name="posy" value="310" />
+		<Property name="color" value="yellow" />
+	</item>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="456" />
+		<Property name="posy" value="135" />
+		<Property name="color" value="yellow" />
+	</item>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="463" />
+		<Property name="posy" value="231" />
+		<Property name="color" value="yellow" />
+	</item>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="577" />
+		<Property name="posy" value="173" />
+		<Property name="color" value="yellow" />
+	</item>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="710" />
+		<Property name="posy" value="85" />
+		<Property name="color" value="yellow" />
+	</item>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="723" />
+		<Property name="posy" value="221" />
+		<Property name="color" value="yellow" />
+	</item>
+	<item>
+		<Property name="type" value="goldpiece" />
+		<Property name="posx" value="790" />
+		<Property name="posy" value="191" />
+		<Property name="color" value="yellow" />
+	</item>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="527" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="507" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="487" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="467" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="447" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="427" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="407" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="387" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="367" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="347" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="327" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="307" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="287" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="267" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="247" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="227" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="207" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="187" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="167" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="147" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="127" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="107" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="87" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="67" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="47" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="27" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="7" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="-13" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="-33" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="-53" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="-73" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="-93" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="-4" />
+		<Property name="posy" value="-113" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="503" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="483" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="463" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="443" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="423" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="403" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="383" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="363" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="343" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="323" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="303" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="283" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="263" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="243" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="223" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="203" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="183" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="163" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="143" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="123" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="103" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="83" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="63" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="43" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="23" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="3" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="-17" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="-37" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="-57" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="-77" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="-97" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="792" />
+		<Property name="posy" value="-117" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="0" />
+		<Property name="direction" value="right" />
+	</levelexit>
+</level>

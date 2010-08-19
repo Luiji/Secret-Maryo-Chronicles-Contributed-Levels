@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+	<information>
+		<Property name="game_version" value="1.9" />
+		<Property name="engine_version" value="34" />
+		<Property name="save_time" value="1254268548" />
+	</information>
+	<settings>
+		<Property name="lvl_author" value="" />
+		<Property name="lvl_version" value="" />
+		<Property name="lvl_music" value="land/land_4.ogg" />
+		<Property name="cam_limit_x" value="0" />
+		<Property name="cam_limit_y" value="0" />
+		<Property name="cam_limit_w" value="3584" />
+		<Property name="cam_limit_h" value="-4000" />
+		<Property name="cam_fixed_hor_vel" value="0" />
+	</settings>
+	<background>
+		<Property name="type" value="103" />
+		<Property name="bg_color_1_red" value="0" />
+		<Property name="bg_color_1_green" value="0" />
+		<Property name="bg_color_1_blue" value="88" />
+		<Property name="bg_color_2_red" value="0" />
+		<Property name="bg_color_2_green" value="0" />
+		<Property name="bg_color_2_blue" value="88" />
+	</background>
+	<background>
+		<Property name="type" value="1" />
+		<Property name="posx" value="0" />
+		<Property name="posy" value="0" />
+		<Property name="posz" value="0.000109" />
+		<Property name="image" value="game/background/stars_1.png" />
+		<Property name="speedx" value="0.5" />
+		<Property name="speedy" value="0.5" />
+		<Property name="const_velx" value="0" />
+		<Property name="const_vely" value="0" />
+	</background>
+	<background>
+		<Property name="type" value="1" />
+		<Property name="posx" value="0" />
+		<Property name="posy" value="0" />
+		<Property name="posz" value="0.00011" />
+		<Property name="image" value="game/background/green_junglehills.png" />
+		<Property name="speedx" value="0.5" />
+		<Property name="speedy" value="0.5" />
+		<Property name="const_velx" value="0" />
+		<Property name="const_vely" value="0" />
+	</background>
+	<player>
+		<Property name="posx" value="516" />
+		<Property name="posy" value="465" />
+		<Property name="direction" value="left" />
+	</player>
+	<sprite>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="64" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="128" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="192" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="256" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="320" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="384" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="448" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="576" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="640" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="704" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="768" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="832" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="896" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="960" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<box>
+		<Property name="posx" value="287" />
+		<Property name="posy" value="364" />
+		<Property name="type" value="text" />
+		<Property name="invisible" value="0" />
+		<Property name="useable_count" value="-1" />
+		<Property name="text" value="Maryo: I should go left to my house.&lt;br/&gt;" />
+	</box>
+	<box>
+		<Property name="posx" value="968" />
+		<Property name="posy" value="364" />
+		<Property name="type" value="text" />
+		<Property name="invisible" value="0" />
+		<Property name="useable_count" value="-1" />
+		<Property name="text" value="Furball: The train still hasn&apos;t been fixed. The train is shut down now.&lt;br/&gt;" />
+	</box>
+	<sprite>
+		<Property name="posx" value="1024" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1088" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1152" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1216" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1280" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1344" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1408" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1472" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1536" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1600" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1664" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1728" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<moving_platform>
+		<Property name="posx" value="1138" />
+		<Property name="posy" value="494" />
+		<Property name="move_type" value="0" />
+		<Property name="massive_type" value="passive" />
+		<Property name="direction" value="right" />
+		<Property name="max_distance" value="0" />
+		<Property name="speed" value="0" />
+		<Property name="touch_time" value="0" />
+		<Property name="shake_time" value="0" />
+		<Property name="touch_move_time" value="0" />
+		<Property name="middle_img_count" value="0" />
+		<Property name="image_top_left" value="enemy/furball/blue/walk_1.png" />
+		<Property name="image_top_middle" value="ground/green_1/slider/1/brown/middle.png" />
+		<Property name="image_top_right" value="animation/particles/light.png" />
+	</moving_platform>
+	<sprite>
+		<Property name="posx" value="1792" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1856" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1920" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1984" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2048" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2112" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2176" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2240" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2304" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2368" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2432" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2496" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2560" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2624" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2688" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2752" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2816" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2880" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2944" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3008" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3072" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3136" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3200" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3264" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3328" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3392" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3456" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3520" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="493" />
+		<Property name="posy" value="536" />
+		<Property name="image" value="pipes/blue/up.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="493" />
+		<Property name="posy" value="586" />
+		<Property name="image" value="pipes/blue/ver.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="516" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="496" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="476" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="456" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="436" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="416" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="396" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="376" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="356" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="336" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="316" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="296" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="276" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="256" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="236" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="216" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="196" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="176" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="156" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="136" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="116" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="96" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="76" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="56" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="36" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="16" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-4" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-24" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-44" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-64" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-84" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-104" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-124" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-144" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-164" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-184" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-204" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-224" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-244" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-264" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-284" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-304" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-324" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-344" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-364" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-384" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-404" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+	<levelexit>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="-424" />
+		<Property name="type" value="1" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_4_house" />
+		<Property name="direction" value="left" />
+	</levelexit>
+</level>

@@ -1,0 +1,3418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+	<information>
+		<Property name="game_version" value="1.9" />
+		<Property name="engine_version" value="34" />
+		<Property name="save_time" value="1252110126" />
+	</information>
+	<settings>
+		<Property name="lvl_author" value="" />
+		<Property name="lvl_version" value="" />
+		<Property name="lvl_music" value="land/land_4.ogg" />
+		<Property name="cam_limit_x" value="0" />
+		<Property name="cam_limit_y" value="0" />
+		<Property name="cam_limit_w" value="3584" />
+		<Property name="cam_limit_h" value="-4000" />
+		<Property name="cam_fixed_hor_vel" value="0" />
+	</settings>
+	<background>
+		<Property name="type" value="103" />
+		<Property name="bg_color_1_red" value="0" />
+		<Property name="bg_color_1_green" value="175" />
+		<Property name="bg_color_1_blue" value="225" />
+		<Property name="bg_color_2_red" value="0" />
+		<Property name="bg_color_2_green" value="205" />
+		<Property name="bg_color_2_blue" value="255" />
+	</background>
+	<background>
+		<Property name="type" value="1" />
+		<Property name="posx" value="0" />
+		<Property name="posy" value="0" />
+		<Property name="posz" value="0.00011" />
+		<Property name="image" value="game/background/green_junglehills.png" />
+		<Property name="speedx" value="0.5" />
+		<Property name="speedy" value="0.5" />
+		<Property name="const_velx" value="0" />
+		<Property name="const_vely" value="0" />
+	</background>
+	<player>
+		<Property name="posx" value="40" />
+		<Property name="posy" value="462" />
+		<Property name="direction" value="right" />
+	</player>
+	<sprite>
+		<Property name="posx" value="3562" />
+		<Property name="posy" value="468" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3227" />
+		<Property name="posy" value="416" />
+		<Property name="image" value="ground/plastic_1/screw_block_red/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3227" />
+		<Property name="posy" value="306" />
+		<Property name="image" value="ground/plastic_1/screw_block_red/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3227" />
+		<Property name="posy" value="251" />
+		<Property name="image" value="ground/plastic_1/screw_block_red/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3172" />
+		<Property name="posy" value="251" />
+		<Property name="image" value="ground/plastic_1/screw_block_red/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3172" />
+		<Property name="posy" value="306" />
+		<Property name="image" value="ground/plastic_1/screw_block_red/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3227" />
+		<Property name="posy" value="361" />
+		<Property name="image" value="ground/plastic_1/screw_block_red/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3172" />
+		<Property name="posy" value="361" />
+		<Property name="image" value="ground/plastic_1/screw_block_red/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3172" />
+		<Property name="posy" value="416" />
+		<Property name="image" value="ground/plastic_1/screw_block_red/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2498" />
+		<Property name="posy" value="251" />
+		<Property name="image" value="ground/plastic_1/screw_block_blue/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2443" />
+		<Property name="posy" value="251" />
+		<Property name="image" value="ground/plastic_1/screw_block_blue/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2498" />
+		<Property name="posy" value="306" />
+		<Property name="image" value="ground/plastic_1/screw_block_blue/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2443" />
+		<Property name="posy" value="306" />
+		<Property name="image" value="ground/plastic_1/screw_block_blue/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2498" />
+		<Property name="posy" value="361" />
+		<Property name="image" value="ground/plastic_1/screw_block_blue/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2443" />
+		<Property name="posy" value="361" />
+		<Property name="image" value="ground/plastic_1/screw_block_blue/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2498" />
+		<Property name="posy" value="416" />
+		<Property name="image" value="ground/plastic_1/screw_block_blue/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2443" />
+		<Property name="posy" value="416" />
+		<Property name="image" value="ground/plastic_1/screw_block_blue/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1712" />
+		<Property name="posy" value="314" />
+		<Property name="image" value="ground/plastic_1/screw_block_green/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1712" />
+		<Property name="posy" value="259" />
+		<Property name="image" value="ground/plastic_1/screw_block_green/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1767" />
+		<Property name="posy" value="259" />
+		<Property name="image" value="ground/plastic_1/screw_block_green/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1767" />
+		<Property name="posy" value="314" />
+		<Property name="image" value="ground/plastic_1/screw_block_green/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1767" />
+		<Property name="posy" value="369" />
+		<Property name="image" value="ground/plastic_1/screw_block_green/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1712" />
+		<Property name="posy" value="369" />
+		<Property name="image" value="ground/plastic_1/screw_block_green/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1712" />
+		<Property name="posy" value="424" />
+		<Property name="image" value="ground/plastic_1/screw_block_green/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1767" />
+		<Property name="posy" value="424" />
+		<Property name="image" value="ground/plastic_1/screw_block_green/middle.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2861" />
+		<Property name="posy" value="468" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2829" />
+		<Property name="posy" value="468" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2132" />
+		<Property name="posy" value="468" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2100" />
+		<Property name="posy" value="468" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="0" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="64" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="128" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="192" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="256" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="320" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="384" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="448" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="512" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="576" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="640" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="704" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="768" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="832" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="896" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="960" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<box>
+		<Property name="posx" value="287" />
+		<Property name="posy" value="365" />
+		<Property name="type" value="text" />
+		<Property name="invisible" value="0" />
+		<Property name="useable_count" value="-1" />
+		<Property name="text" value="This is the beginning of PART 2.&lt;br/&gt;" />
+	</box>
+	<box>
+		<Property name="posx" value="968" />
+		<Property name="posy" value="365" />
+		<Property name="type" value="text" />
+		<Property name="invisible" value="0" />
+		<Property name="useable_count" value="-1" />
+		<Property name="text" value="Furball: I see you have a train ticket.&lt;br/&gt;Hop on the green part of the train.&lt;br/&gt;" />
+	</box>
+	<sprite>
+		<Property name="posx" value="1024" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1088" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1152" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1216" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1280" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1344" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1408" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1472" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1536" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1600" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1664" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1728" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<moving_platform>
+		<Property name="posx" value="1143" />
+		<Property name="posy" value="505" />
+		<Property name="move_type" value="0" />
+		<Property name="massive_type" value="passive" />
+		<Property name="direction" value="right" />
+		<Property name="max_distance" value="0" />
+		<Property name="speed" value="0" />
+		<Property name="touch_time" value="0" />
+		<Property name="shake_time" value="0" />
+		<Property name="touch_move_time" value="0" />
+		<Property name="middle_img_count" value="0" />
+		<Property name="image_top_left" value="enemy/furball/blue/walk_1.png" />
+		<Property name="image_top_middle" value="ground/green_1/slider/1/brown/middle.png" />
+		<Property name="image_top_right" value="animation/particles/light.png" />
+	</moving_platform>
+	<sprite>
+		<Property name="posx" value="1422" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1422" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1422" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1422" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1422" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1422" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1422" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1422" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1465" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1465" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1465" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1465" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1465" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1465" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1465" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1465" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1508" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1508" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1508" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1508" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1508" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1508" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1508" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1508" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1551" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1551" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1551" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1551" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1551" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1551" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1551" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1551" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1594" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1594" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1594" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1594" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1594" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1594" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1594" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1594" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1637" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1637" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1637" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1637" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1637" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1637" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1637" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1637" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1680" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1680" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1680" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1680" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1680" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1680" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1680" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1680" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1723" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1723" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1723" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1723" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1766" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1766" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1766" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1766" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1809" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1809" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1809" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1809" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1809" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1809" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1809" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1809" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1852" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1852" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1852" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1852" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1852" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1852" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1852" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1852" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1895" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1895" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1895" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1895" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1895" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1895" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1895" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1895" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1938" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1938" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1938" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1938" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1938" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1938" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1938" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1938" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1981" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1981" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1981" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1981" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1981" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1981" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1981" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1981" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2024" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2024" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2024" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2024" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2024" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2024" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2024" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2024" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2067" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2067" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2067" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2067" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2067" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2067" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2067" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2067" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_green.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1792" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1856" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1920" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1984" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2048" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2112" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2176" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2240" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2304" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2368" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2432" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2496" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2560" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2624" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2688" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2752" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2816" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2880" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2153" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2153" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2153" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2153" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2153" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2153" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2153" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2153" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2196" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2196" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2196" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2196" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2196" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2196" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2196" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2196" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2239" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2239" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2239" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2239" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2239" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2239" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2239" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2239" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2282" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2282" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2282" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2282" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2282" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2282" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2282" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2282" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2325" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2325" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2325" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2325" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2325" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2325" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2325" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2325" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2368" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2368" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2368" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2368" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2368" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2368" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2368" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2368" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2411" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2411" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2411" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2411" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2411" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2411" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2411" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2411" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2454" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2454" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2454" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2454" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2497" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2497" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2497" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2497" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2540" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2540" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2540" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2540" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2540" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2540" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2540" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2540" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2583" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2583" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2583" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2583" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2583" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2583" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2583" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2583" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2626" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2626" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2626" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2626" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2626" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2626" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2626" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2626" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2669" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2669" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2669" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2669" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2669" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2669" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2669" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2669" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2712" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2712" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2712" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2712" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2712" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2712" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2712" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2712" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2755" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2755" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2755" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2755" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2755" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2755" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2755" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2755" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2798" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2798" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2798" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2798" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2798" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2798" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2798" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2798" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_blue.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2884" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2884" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2884" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2884" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2884" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2884" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2884" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2884" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2927" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2927" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2927" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2927" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2927" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2927" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2927" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2927" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2970" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2970" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2970" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2970" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2970" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2970" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2970" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2970" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3013" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3013" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3013" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3013" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3013" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3013" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3013" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3013" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3056" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3056" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3056" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3056" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3056" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3056" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3056" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3056" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3099" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3099" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3099" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3099" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3099" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3099" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3099" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3099" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3142" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3142" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3142" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3142" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3142" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3142" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3142" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3142" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3185" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3185" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3185" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3185" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3228" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3228" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3228" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3228" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3271" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3271" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3271" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3271" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3271" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3271" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3271" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3271" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3314" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3314" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3314" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3314" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3314" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3314" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3314" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3314" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3357" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3357" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3357" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3357" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3357" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3357" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3357" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3357" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3400" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3400" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3400" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3400" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3400" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3400" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3400" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3400" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3443" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3443" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3443" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3443" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3443" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3443" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3443" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3443" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3486" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3486" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3486" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3486" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3486" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3486" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3486" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3486" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3529" />
+		<Property name="posy" value="193" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3529" />
+		<Property name="posy" value="150" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3529" />
+		<Property name="posy" value="279" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3529" />
+		<Property name="posy" value="236" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3529" />
+		<Property name="posy" value="365" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3529" />
+		<Property name="posy" value="322" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3529" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3529" />
+		<Property name="posy" value="408" />
+		<Property name="image" value="blocks/metal/stone_2_red.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2944" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3008" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3072" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3136" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3200" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3264" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3328" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3392" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3456" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3520" />
+		<Property name="posy" value="537" />
+		<Property name="image" value="ground/castle_1/ground/top/1.png" />
+		<Property name="type" value="massive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1539" />
+		<Property name="posy" value="521" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1556" />
+		<Property name="posy" value="433" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1556" />
+		<Property name="posy" value="489" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1511" />
+		<Property name="posy" value="529" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1484" />
+		<Property name="posy" value="521" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1539" />
+		<Property name="posy" value="425" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1511" />
+		<Property name="posy" value="417" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1484" />
+		<Property name="posy" value="425" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1462" />
+		<Property name="posy" value="461" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1468" />
+		<Property name="posy" value="433" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1468" />
+		<Property name="posy" value="489" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1562" />
+		<Property name="posy" value="461" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2013" />
+		<Property name="posy" value="521" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2030" />
+		<Property name="posy" value="433" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2030" />
+		<Property name="posy" value="489" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1985" />
+		<Property name="posy" value="529" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1958" />
+		<Property name="posy" value="521" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2013" />
+		<Property name="posy" value="425" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1985" />
+		<Property name="posy" value="417" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1958" />
+		<Property name="posy" value="425" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1936" />
+		<Property name="posy" value="461" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1942" />
+		<Property name="posy" value="433" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1942" />
+		<Property name="posy" value="489" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2036" />
+		<Property name="posy" value="461" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2271" />
+		<Property name="posy" value="521" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2288" />
+		<Property name="posy" value="433" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2288" />
+		<Property name="posy" value="489" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2243" />
+		<Property name="posy" value="529" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2216" />
+		<Property name="posy" value="521" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2271" />
+		<Property name="posy" value="425" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2243" />
+		<Property name="posy" value="417" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2216" />
+		<Property name="posy" value="425" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2194" />
+		<Property name="posy" value="461" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2200" />
+		<Property name="posy" value="433" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2200" />
+		<Property name="posy" value="489" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2294" />
+		<Property name="posy" value="461" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2745" />
+		<Property name="posy" value="521" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2762" />
+		<Property name="posy" value="433" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2762" />
+		<Property name="posy" value="489" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2717" />
+		<Property name="posy" value="529" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2690" />
+		<Property name="posy" value="521" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2745" />
+		<Property name="posy" value="425" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2717" />
+		<Property name="posy" value="417" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2690" />
+		<Property name="posy" value="425" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2668" />
+		<Property name="posy" value="461" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2674" />
+		<Property name="posy" value="433" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2674" />
+		<Property name="posy" value="489" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2768" />
+		<Property name="posy" value="461" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3003" />
+		<Property name="posy" value="521" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3020" />
+		<Property name="posy" value="433" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3020" />
+		<Property name="posy" value="489" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2975" />
+		<Property name="posy" value="529" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2948" />
+		<Property name="posy" value="521" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3003" />
+		<Property name="posy" value="425" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2975" />
+		<Property name="posy" value="417" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2948" />
+		<Property name="posy" value="425" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2926" />
+		<Property name="posy" value="461" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2932" />
+		<Property name="posy" value="433" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2932" />
+		<Property name="posy" value="489" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3026" />
+		<Property name="posy" value="461" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3476" />
+		<Property name="posy" value="521" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3493" />
+		<Property name="posy" value="433" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3493" />
+		<Property name="posy" value="489" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3448" />
+		<Property name="posy" value="529" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3421" />
+		<Property name="posy" value="521" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3476" />
+		<Property name="posy" value="425" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3448" />
+		<Property name="posy" value="417" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3421" />
+		<Property name="posy" value="425" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3399" />
+		<Property name="posy" value="461" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3405" />
+		<Property name="posy" value="433" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3405" />
+		<Property name="posy" value="489" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3499" />
+		<Property name="posy" value="461" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1718" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1750" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1782" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1715" />
+		<Property name="posy" value="459" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1784" />
+		<Property name="posy" value="459" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1718" />
+		<Property name="posy" value="491" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1750" />
+		<Property name="posy" value="491" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1782" />
+		<Property name="posy" value="491" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1715" />
+		<Property name="posy" value="499" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1784" />
+		<Property name="posy" value="499" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1718" />
+		<Property name="posy" value="529" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1750" />
+		<Property name="posy" value="529" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="1782" />
+		<Property name="posy" value="529" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2448" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2480" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2512" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2445" />
+		<Property name="posy" value="459" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2514" />
+		<Property name="posy" value="459" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2448" />
+		<Property name="posy" value="491" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2480" />
+		<Property name="posy" value="491" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2512" />
+		<Property name="posy" value="491" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2445" />
+		<Property name="posy" value="499" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2514" />
+		<Property name="posy" value="499" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2448" />
+		<Property name="posy" value="529" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2480" />
+		<Property name="posy" value="529" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="2512" />
+		<Property name="posy" value="529" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3180" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3212" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3244" />
+		<Property name="posy" value="451" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3177" />
+		<Property name="posy" value="459" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3246" />
+		<Property name="posy" value="459" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3180" />
+		<Property name="posy" value="491" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3212" />
+		<Property name="posy" value="491" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3244" />
+		<Property name="posy" value="491" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3177" />
+		<Property name="posy" value="499" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3246" />
+		<Property name="posy" value="499" />
+		<Property name="image" value="ground/green_2/trees/balloon_tree/trunk.png" />
+		<Property name="type" value="passive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3180" />
+		<Property name="posy" value="529" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3212" />
+		<Property name="posy" value="529" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<sprite>
+		<Property name="posx" value="3244" />
+		<Property name="posy" value="529" />
+		<Property name="image" value="ground/jungle_1/bridge_plank.png" />
+		<Property name="type" value="halfmassive" />
+	</sprite>
+	<levelexit>
+		<Property name="posx" value="1761" />
+		<Property name="posy" value="426" />
+		<Property name="type" value="0" />
+		<Property name="motion" value="1" />
+		<Property name="level_name" value="cw_chapter_3_train" />
+	</levelexit>
+</level>
